@@ -8,4 +8,3 @@ There are 3 tests which overseas licence holder must give in order to convert th
 
 The script is written to scrape the appointments(Next available) in each location of VicRoads office (so as to capture the reschedules) and present them in email.  This can be scheduled to run every 15 mins or so to identify any recent rescedules. 
 
-WhatsApp Image 2020-03-17 at 10.27.37 AM.jpeg
